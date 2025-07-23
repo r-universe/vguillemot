@@ -5,3 +5,6 @@
 [submodule "SHIP"]
 	path = SHIP
 	url = https://github.com/vguillemot/ship
+[submodule "ppls"]
+	path = ppls
+	url = https://github.com/vguillemot/ppls
